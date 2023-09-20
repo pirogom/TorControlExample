@@ -1,5 +1,5 @@
 # TorControlExample
-C++ Example Tor onion router controller (SOCK4 Proxy Client)
+C++ Example Tor onion router controller (SOCK5 Proxy Client)
 
 Tor Onion Router 제어 포트를 통한 제어 클라이언트 예제코드입니다.
 Tor 프로세스에 제어 명령을 전달하는 단순 클래스와 Tor를 통해 통신을 수립하는
